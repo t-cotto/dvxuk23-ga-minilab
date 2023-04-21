@@ -42,6 +42,8 @@ jobs:
         #        continue-on-error: true
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        #with:
+        #  args: --severity-threshold=high
 
   code-security:
     needs: [ build ]
