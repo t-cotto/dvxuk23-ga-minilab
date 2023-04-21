@@ -43,6 +43,7 @@ Use [Snyk Maven Github](https://github.com/snyk/actions/tree/master/maven) actio
 ---
 Use the same approach as before but see how you can use the command `monitor` in a Snyk GitHub Action.
 - [Hint3](hint3.md)
+- [Hint4](hint4.md)
 
 ---
 
